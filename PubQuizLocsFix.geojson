@@ -1,0 +1,2365 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.265378781,55.82652775 ]
+    },
+    "properties": {
+    "PubAddress":"136 Battlefield Road, South Side, Glasgow, Lanarkshire, Scotland, G42 9JT",
+    "PubName":"Armstrong’s ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"£35 bar voucher; also, there is a game of “Play Your Cards Right”",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:30pm",
+    "PubPhoneNumber":"0141 636 9229",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/armstrongs",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.269814814,55.83674162 ]
+    },
+    "properties": {
+    "PubAddress":"720 Pollokshaws Road, Pollokshields, Glasgow, Lanarkshire, Scotland, G41 2AD",
+    "PubName":"Allison Arms ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£50 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 423 1661",
+    "PubWebsite":"https://www.facebook.com/TheAllisonArmsPub/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.248662751,55.85949466 ]
+    },
+    "properties": {
+    "PubAddress":"80 Glassford Street, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1UR",
+    "PubName":"Bacchus ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"1st – £50 bar tab; 2nd – a cocktail tree; 3rd – a round of shots",
+    "QuizEntryCost":"£2 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 572 0080",
+    "PubWebsite":"https://www.bacchusglasgow.co/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.245501768,55.85875856 ]
+    },
+    "properties": {
+    "PubAddress":"91 Candleriggs, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1NP",
+    "PubName":"Bar 91",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":" £30 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 406 4562",
+    "PubWebsite":"https://www.bar91.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.275992701,55.87354445 ]
+    },
+    "properties": {
+    "PubAddress":"360 Great Western Road, Firhill, Glasgow, Lanarkshire, Scotland, G4 9HT",
+    "PubName":"Bananamoon ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£20 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:45pm",
+    "PubPhoneNumber":"0141 237 2526",
+    "PubWebsite":"https://www.bananamoonbar.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.300727344,55.87072232 ]
+    },
+    "properties": {
+    "PubAddress":"165 Dumbarton Road, West End, Glasgow, Lanarkshire, Scotland, G11 6AA",
+    "PubName":"Bag O'Nails",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st- £100 bar tab, 2nd- £30 bar tab",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 465 9920",
+    "PubWebsite":"https://bag-o-nails.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.297642738,55.87006923 ]
+    },
+    "properties": {
+    "PubAddress":"80 Dumbarton Road, Partick West, Glasgow, Lanarkshire, Scotland, G11 6NX",
+    "PubName":"Bar Gallus ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Case of beer and a cash pot (which rolls over if not won)",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 334 8012",
+    "PubWebsite":"https://www.bargallusglasgow.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.24417726,55.85841704 ]
+    },
+    "properties": {
+    "PubAddress":"80 Albion Street, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1NY",
+    "PubName":"Bar Home",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st - £50 bar tab for winners; 2nd - £30 bar tab; 3rd - 2 pint pitcher of beer/cocktail. There is also a cash jackpot.",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 552 1734",
+    "PubWebsite":"https://www.socialpubandkitchen.co.uk/home-glasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.262970325,55.81695294 ]
+    },
+    "properties": {
+    "PubAddress":"34 Clarkston Road, South Side, Glasgow, Lanarkshire, Scotland, G44 3QH",
+    "PubName":"The Beechings",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Spirits, wine.  There is also a cash jackpot",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 633 3585",
+    "PubWebsite":"https://www.facebook.com/Thebeechings/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.245111842,55.85811496 ]
+    },
+    "properties": {
+    "PubAddress":"36 Bell Street, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1LG",
+    "PubName":"Blackfriars of Bell St.",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"£100 cash for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 212 3320",
+    "PubWebsite":"https://www.blackfriarsglasgow.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.280974485,55.86370464 ]
+    },
+    "properties": {
+    "PubAddress":"1004 Argyle Street, Anderston, Glasgow, Lanarkshire, Scotland, G3 8LU",
+    "PubName":"Brass Monkey ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st – £25 voucher; 2nd – bottle of wine",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"5:00pm",
+    "PubPhoneNumber":"0141 243 2170",
+    "PubWebsite":"https://www.facebook.com/TheBrassMonkeyGlasgow/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271347829,55.86426106 ]
+    },
+    "properties": {
+    "PubAddress":"153 North Street, Anderston, Glasgow, Lanarkshire, Scotland, G3 7DA",
+    "PubName":"Bon Accord ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Winners – £20 voucher; booby prize – packet of Nobby’s Nuts.  There is also a cash jackpot, which rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:15pm",
+    "PubPhoneNumber":"0141 248 4427",
+    "PubWebsite":"https://www.bonaccordpub.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.292067012,55.86836925 ]
+    },
+    "properties": {
+    "PubAddress":"1397 Argyle Street, Yorkhill, Glasgow, Lanarkshire, Scotland, G3 8AN",
+    "PubName":"BrewDog Kelvingrove",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"£50 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 334 7175",
+    "PubWebsite":"https://drink.brewdog.com/uk/brewdog-glasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.263107285,55.86462987 ]
+    },
+    "properties": {
+    "PubAddress":"199 Bath Street, Blythswood Hill, Glasgow, Lanarkshire, Scotland, G2 4HU",
+    "PubName":"Bunker ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£50 jackpot, which rolls up if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 229 1427",
+    "PubWebsite":"https://thebunkerbar.com/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.269490471,55.86606529 ]
+    },
+    "properties": {
+    "PubAddress":"427 Sauchiehall Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 3LG",
+    "PubName":"Broadcast",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"£75 bar tab for winners, plus other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 7304",
+    "PubWebsite":"https://www.broadcastglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.270209439,55.86620483 ]
+    },
+    "properties": {
+    "PubAddress":"528 Sauchiehall Street, Garnethill, Glasgow, Lanarkshire, Scotland, G2 3LX",
+    "PubName":"Campus",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":" £100 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 3994",
+    "PubWebsite":"https://www.barcampus.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.270310274,55.86850303 ]
+    },
+    "properties": {
+    "PubAddress":"129 Saint George's Road, Woodlands, Glasgow, Lanarkshire, Scotland, G3 6JA",
+    "PubName":"Camerons ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£25 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"07503 102007",
+    "PubWebsite":"https://proper-pubs.com/our-proper-pubs/camerons-glasgow/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271674686,55.82737895 ]
+    },
+    "properties": {
+    "PubAddress":"16 Algie Street, Langside, Glasgow, Lanarkshire, Scotland, G41 3DJ",
+    "PubName":"Church on the Hill",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st – £50 bar voucher; 2nd – bottle of house wine; last – mystery booby prize. There is also a cash jackpot, which rolls over if not won.",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 343 7569",
+    "PubWebsite":"https://churchonthehill.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.133712115,55.84996966 ]
+    },
+    "properties": {
+    "PubAddress":"183 Baillieston Road, Garrowhill, Glasgow, Lanarkshire, Scotland, G32 0TN",
+    "PubName":"Clachan  ",
+    "DayofQuiz":"Tuesday, fortnightly",
+    "QuizWinnings":"£20 cash for winners.  There is also an “Open the Box” jackpot round – prize rolls over if not won – and an extra game for a cashpot",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 573 3751",
+    "PubWebsite":"https://www.facebook.com/theclachanbar/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.247766139,55.86022728 ]
+    },
+    "properties": {
+    "PubAddress":"18 John Street, City Centre, Glasgow, Lanarkshire, Scotland, G1 1JQ",
+    "PubName":"Committee Room No 9 ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£50 bar tab for winners, plus other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:00pm",
+    "PubPhoneNumber":"0141 553 2490",
+    "PubWebsite":"https://committeeroom9.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":"sports quiz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.258791192,55.82336949 ]
+    },
+    "properties": {
+    "PubAddress":"1153 Cathcart Road, Cathcart, Glasgow, Lanarkshire, Scotland, G42 9HB",
+    "PubName":"Clockwork Beer Co ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Various prizes, including a £50 bar voucher",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 649 0184",
+    "PubWebsite":"https://www.clockworkglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.282431372,55.87553423 ]
+    },
+    "properties": {
+    "PubAddress":"499 Great Western Road, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8HN",
+    "PubName":"Coopers ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st – £30 voucher; 2nd – £10 voucher.  There are also spot prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 334 0884",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/coopers",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.364275996,55.84341249 ]
+    },
+    "properties": {
+    "PubAddress":"90 Crookston Road, Glasgow, Lanarkshire, Scotland, G52 3",
+    "PubName":"Crookston Hotel",
+    "DayofQuiz":"Monday, fortnightly",
+    "QuizWinnings":"£40 voucher for winners.  There is also a game of “Play Your Cards Right” for a cash jackpot.  The jackpot starts at £50 and rolls over if not won",
+    "QuizEntryCost":"free for the quiz, £1 per entry for the jackpot",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 882 6142",
+    "PubWebsite":"https://crookstonhotel.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.249806713,55.8591935 ]
+    },
+    "properties": {
+    "PubAddress":"68 Virginia Street, City Centre, Glasgow, Lanarkshire, Scotland, G1 1TX",
+    "PubName":"Delmonicas ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£50 cash for winners.  There is also a cash prize for getting every answer correct – this rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 559 6594",
+    "PubWebsite":"https://delmonicas.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.293248609,55.87550933 ]
+    },
+    "properties": {
+    "PubAddress":"260 Byres Road, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8SH",
+    "PubName":"Curlers Rest ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"Winners receive cash from entry fees",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 341 0737",
+    "PubWebsite":"https://www.nicholsonspubs.co.uk/restaurants/scotlandandnorthernireland/thecurlersrestglasgow#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.30983891,55.87076421 ]
+    },
+    "properties": {
+    "PubAddress":"427 Dumbarton Road, West End, Glasgow, Lanarkshire, Scotland, G11 6DD",
+    "PubName":"Deoch an Dorus ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"Prizes for 1st, 2nd and 3rd. There is also a cash jackpot, which starts at £50 and increases by £10 each week it is not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:00pm",
+    "PubPhoneNumber":"0141 357 2644",
+    "PubWebsite":"https://www.deochandorus.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.277180333,55.87127677 ]
+    },
+    "properties": {
+    "PubAddress":"246 Woodlands Road, Hillhead, Glasgow, Lanarkshire, Scotland, G3 6ND",
+    "PubName":"Dram! ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Cash – rolls up if not won (Minimum £100)",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:30pm",
+    "PubPhoneNumber":"0141 332 1622",
+    "PubWebsite":"https://www.dramglasgow.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.259546904,55.85859373 ]
+    },
+    "properties": {
+    "PubAddress":"17 Hope Street, Anderston, Glasgow, Lanarkshire, Scotland, G2 2TG",
+    "PubName":"Denholms ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Round of drinks for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 384 6613",
+    "PubWebsite":"https://www.facebook.com/oldcitypubs/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2708499,55.86668512 ]
+    },
+    "properties": {
+    "PubAddress":"2 Saint George's Road, Garnethill, Glasgow, Lanarkshire, Scotland, G3 6UJ",
+    "PubName":"Driftwood ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"up to £75 cash prize for winners, 2nd place bottle of vodka",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 7000",
+    "PubWebsite":"https://www.instagram.com/driftwoodbarglasgow/?hl=en",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.234527964,55.86115799 ]
+    },
+    "properties": {
+    "PubAddress":"85 Drygate, City Centre, Glasgow, Lanarkshire, Scotland, G4 0",
+    "PubName":"Drygate ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"1st – £50 Drygate voucher; 2nd – selection of cans",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 212 8815",
+    "PubWebsite":"https://www.drygate.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.251765532,55.86055495 ]
+    },
+    "properties": {
+    "PubAddress":"155 Queen Street, City Centre, Glasgow, Lanarkshire, Scotland, G1 3BJ",
+    "PubName":"Drouthy’s ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"£30 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 243 2964",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/drouthys",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.295562685,55.82745546 ]
+    },
+    "properties": {
+    "PubAddress":"1534 Pollokshaws Road, Pollokshields, Glasgow, Lanarkshire, Scotland, G43 1RF",
+    "PubName":"Eala Bhán",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st – £30 voucher; 2nd – 50% off food at the next week’s quiz; 3rd – free pizza at the next week’s quiz; second last – packet of biscuits",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 649 5061",
+    "PubWebsite":"https://ealabhan.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.275005816,55.86969795 ]
+    },
+    "properties": {
+    "PubAddress":"160 Woodlands Road, Hillhead, Glasgow, Lanarkshire, Scotland, G3 6LF",
+    "PubName":"Finsbay Flatiron ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"1st – £50 bar tab; 2nd – bottle of wine; 3rd – mystery prize",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 332 3399",
+    "PubWebsite":"https://www.finsbayflatiron.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.265979093,55.86571382 ]
+    },
+    "properties": {
+    "PubAddress":"341 Sauchiehall Street, Blythswood Hill, Glasgow, Lanarkshire, Scotland, G2 3HW",
+    "PubName":"Firewater ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£100 cash for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 353 6207",
+    "PubWebsite":"https://www.facebook.com/firewaterglasgowofficial/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.341447275,55.87517562 ]
+    },
+    "properties": {
+    "PubAddress":"1305 Dumbarton Road, Victoria Park, Glasgow, Lanarkshire, Scotland, G14 9UY",
+    "PubName":"Granny Gibbs ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"Various prizes, depending on turnout.?There is also a game of “Play Your Cards Right”",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 569 1028",
+    "PubWebsite":"https://www.facebook.com/GrannyGibbsGlasgow/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.29259415,55.86719884 ]
+    },
+    "properties": {
+    "PubAddress":"51 Old Dumbarton Road, West End, Glasgow, Lanarkshire, Scotland, G3 8RF",
+    "PubName":"Grunting Growler ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Case of beer for winners",
+    "QuizEntryCost":"quiz booking fee of £5 per team, which is deducted from your tab at the end of the night",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 248 4551",
+    "PubWebsite":"https://gruntinggrowler.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.293206225,55.87461305 ]
+    },
+    "properties": {
+    "PubAddress":"44 Ashton Lane, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8SJ",
+    "PubName":"Innis & Gunn Brewery Taproom",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£50 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 334 6688",
+    "PubWebsite":"https://www.innisandgunn.com/taprooms/glasgow/west-end",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.280621697,55.87495383 ]
+    },
+    "properties": {
+    "PubAddress":"445 Great Western Road, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8HH",
+    "PubName":"Inn Deep ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st – £50 bar tab; 2nd – bottle of house wine",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 264 2777",
+    "PubWebsite":"https://www.inndeep.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.258392569,55.86173527 ]
+    },
+    "properties": {
+    "PubAddress":"140 Saint Vincent Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 5",
+    "PubName":"Hope & Vincent",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£50 voucher for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 286 6258",
+    "PubWebsite":"https://hopeandvincent.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.25534866,55.86097004 ]
+    },
+    "properties": {
+    "PubAddress":"24 West Nile Street, City Centre, Glasgow, Lanarkshire, Scotland, G1 2PW",
+    "PubName":"Innis & Gunn Brewery Taproom City Centre ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":" £50 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 899 0035",
+    "PubWebsite":"https://www.innisandgunn.com/taprooms/glasgow/city-centre",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.27346891,55.82845697 ]
+    },
+    "properties": {
+    "PubAddress":"2 Camphill Avenue, Langside, Glasgow, Lanarkshire, Scotland, G41 3AY",
+    "PubName":"Ivory Hotel ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":" Case of beer for winners; there is also a cash jackpot which rolls up if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 636 0223",
+    "PubWebsite":"https://oyotheivory.hotelsofglasgow.com/en/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.247819867,55.86005252 ]
+    },
+    "properties": {
+    "PubAddress":"17 John Street, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1HP",
+    "PubName":"Katie’s Bar ",
+    "DayofQuiz":"last Thursday of the month",
+    "QuizWinnings":"Various prizes, including £150 cash for winners",
+    "QuizEntryCost":"£5 per team, max team size of 5",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 548 6983",
+    "PubWebsite":"https://katiesbar.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.160224537,55.8514337 ]
+    },
+    "properties": {
+    "PubAddress":"1365 Shettleston Road, Shettleston, Glasgow, Lanarkshire, Scotland, G32 9AT",
+    "PubName":"The Kirkhouse ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Varies from quiz to quiz",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 343 9407",
+    "PubWebsite":"https://www.kirkhouseglasgow.co.uk/index",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.281903535,55.86400626 ]
+    },
+    "properties": {
+    "PubAddress":"1008 Argyle Street, City Centre, Glasgow, Lanarkshire, Scotland, G3 8LX",
+    "PubName":"Lebowskis – West ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£20 food/drink voucher for winners; also, a cash jackpot which increases by £20 each week if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 564 7988",
+    "PubWebsite":"https://www.lebowskis.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.282441954,55.87553719 ]
+    },
+    "properties": {
+    "PubAddress":"500 Great Western Road, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8HN",
+    "PubName":"Kitty O’Shea’s",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":" An air fryer or mystery prize for winners. There is also a jackpot round for a cash prize, which rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 339 9398",
+    "PubWebsite":"https://kitty-osheas.com/west-end/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.255651186,55.86457339 ]
+    },
+    "properties": {
+    "PubAddress":"76 Sauchiehall Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 3DE",
+    "PubName":"Lauders",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st – £30 voucher (plus a pineapple as a trophy); 2nd and 3rd – toys and sweets; last – booby prize",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 9690",
+    "PubWebsite":"https://www.thelaudersglasgow.co.uk/#/ ",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.320715464,55.89484904 ]
+    },
+    "properties": {
+    "PubAddress":"1100 Crow Road, Anniesland, Glasgow, Lanarkshire, Scotland, G13 1JT",
+    "PubName":"Lock 27 ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"1st – meal for 4; 2nd – bottle of house wine; 3rd – 4 bottles of the beer of the week",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 954 1144",
+    "PubWebsite":"https://www.lock27glasgow.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.376029322,55.90271085 ]
+    },
+    "properties": {
+    "PubAddress":"7 Allerdyce Court, Knightswood, Glasgow, Lanarkshire, Scotland, G15 6SA",
+    "PubName":"Leven Valley ",
+    "DayofQuiz":"last Wednesday of the month",
+    "QuizWinnings":"Food/drink voucher for winners",
+    "QuizEntryCost":"free.?Maximum team size is 4",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 944 3366",
+    "PubWebsite":"https://www.stonehouserestaurants.co.uk/nationalsearch/scotland-and-northern-ireland/levenvalleyglasgow#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.276206523,55.87361406 ]
+    },
+    "properties": {
+    "PubAddress":"372 Great Western Road, Firhill, Glasgow, Lanarkshire, Scotland, G4 9HT",
+    "PubName":"Machair ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"£25 bar tab for winners; also, there is a spot prize and a cash jackpot (which increases by £5 per week if not won)",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 337 3111",
+    "PubWebsite":"https://www.machairbar.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.288217707,55.82333806 ]
+    },
+    "properties": {
+    "PubAddress":"16 Newlandsfield Road, South Side, Glasgow, Lanarkshire, Scotland, G43 2XU",
+    "PubName":"Loks ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Meal for 2 for winners.  There are also other opportunities to win cash prizes throughout the night with bingo and “Play Your Cards Right”",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 632 5727",
+    "PubWebsite":"https://loksbarandkitchen.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.245891359,55.85796282 ]
+    },
+    "properties": {
+    "PubAddress":"26 Candleriggs, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1LD",
+    "PubName":"Nonna Said ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st – £50 voucher (plus a pineapple as a trophy); 2nd and 3rd – toys and sweets; last – booby prize",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:00pm",
+    "PubPhoneNumber":"0141 648 4848",
+    "PubWebsite":"https://nonnasaid.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.218432579,55.85841448 ]
+    },
+    "properties": {
+    "PubAddress":"380 Duke Street, East End, Glasgow, Lanarkshire, Scotland, G31 1DN",
+    "PubName":"Palais ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"1st – £50 tab; 2nd – £20 tab; 3rd – bottle of wine",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 572 7323",
+    "PubWebsite":"https://thepalaisbar.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.282671792,55.82993554 ]
+    },
+    "properties": {
+    "PubAddress":"1179 Pollokshaws Road, South Side, Glasgow, Lanarkshire, Scotland, G41 3NG",
+    "PubName":"Phillies ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"£50 cash, plus other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 616 6555",
+    "PubWebsite":"https://www.philliesbar.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.2935287,55.87541804 ]
+    },
+    "properties": {
+    "PubAddress":"Byres Road, Dowanhill, Glasgow, Lanarkshire, Scotland, G12 8UB",
+    "PubName":"Òran Mór ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":" £50 voucher for winners; other prizes also available",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":" 0141 357 6200",
+    "PubWebsite":"https://oran-mor.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.291537611,55.87358334 ]
+    },
+    "properties": {
+    "PubAddress":"22 University Gardens, West End, Glasgow, Lanarkshire, Scotland, G12 8QN",
+    "PubName":"Queen Margaret Union ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Vary week to week",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 339 9784",
+    "PubWebsite":"https://www.qmunion.org.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":"student union"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.345184067,55.84558237 ]
+    },
+    "properties": {
+    "PubAddress":"1860 Paisley Road West, North Cardonald, Glasgow, Lanarkshire, Scotland, G52 3TN",
+    "PubName":"Quo Vadis",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£25 voucher for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":" 0141 883 6538",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/quo-vadis",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.22345225,55.85826847 ]
+    },
+    "properties": {
+    "PubAddress":"304 Duke Street, East End, Glasgow, Lanarkshire, Scotland, G31 1RZ",
+    "PubName":"Redmond’s ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"1st – £50 cash; 2nd – £25 meal voucher",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 572 5664",
+    "PubWebsite":"https://www.facebook.com/redmondsofdennistoun/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.297903583,55.87163559 ]
+    },
+    "properties": {
+    "PubAddress":"71 Byres Road, Partick West, Glasgow, Lanarkshire, Scotland, G11 5HN",
+    "PubName":"Rum Bongo ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"£50 cash for winners, with the chance to gamble for a jackpot prize",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"07901 019071",
+    "PubWebsite":"https://www.rumbongobar.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.263189009,55.83660284 ]
+    },
+    "properties": {
+    "PubAddress":"165 Allison Street, South Side, Glasgow, Lanarkshire, Scotland, G42 8RX",
+    "PubName":"Ryan’s Bar ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"1st – £40 cash; 2nd – drinks",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 237 1120",
+    "PubWebsite":"https://www.facebook.com/people/Ryans-Bar-Glasgow/100093036051411/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.263778346,55.85893004 ]
+    },
+    "properties": {
+    "PubAddress":"377 Argyle Street, Anderston, Glasgow, Lanarkshire, Scotland, G2 8LT",
+    "PubName":"Players Bar ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Bottle of prosecco or bucket of beers for the winners. Also, there is a £50 bar tab for answering the bonus question correctly",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:00pm",
+    "PubPhoneNumber":"0141 471 1111",
+    "PubWebsite":"https://www.facebook.com/playersglasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.255327454,55.86220218 ]
+    },
+    "properties": {
+    "PubAddress":"92 West George Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 1PJ",
+    "PubName":"Shilling Brewing Co.",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£50 bar tab for winners, plus other goodies",
+    "QuizEntryCost":"Free. Maximum team size is 6",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 353 1654",
+    "PubWebsite":"https://shillingbrewingcompany.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.309519308,55.8710303 ]
+    },
+    "properties": {
+    "PubAddress":"7 Peel Street, Partick West, Glasgow, Lanarkshire, Scotland, G11 5LL",
+    "PubName":"Stumps",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£30 voucher for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:30pm",
+    "PubPhoneNumber":"0141 334 7737",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/stumps",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.259296704,55.85887431 ]
+    },
+    "properties": {
+    "PubAddress":"19 Hope Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 6AB",
+    "PubName":"Solid Rock Cafe ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Case of beer for winners, plus other small prizes.  There is also a cash jackpot, which rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 221 1105",
+    "PubWebsite":"http://www.solidrockglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271456247,55.83573745 ]
+    },
+    "properties": {
+    "PubAddress":"778 Pollokshaws Road, Strathbungo, Glasgow, Lanarkshire, Scotland, G41 2AE",
+    "PubName":"Stag & Thistle ",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£50 voucher for winners",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 423 5109",
+    "PubWebsite":"https://www.stagandthistleglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.277223053,55.83257003 ]
+    },
+    "properties": {
+    "PubAddress":"962 Pollokshaws Road, South Side, Glasgow, Lanarkshire, Scotland, G41 2ET",
+    "PubName":"Sweeney’s on the Park ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"2 bottles of wine for winners; also, there is a cash jackpot",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 632 6741",
+    "PubWebsite":"https://sweeneysonthepark.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.254255875,55.85813787 ]
+    },
+    "properties": {
+    "PubAddress":"108 Argyle Street, Merchant City, Glasgow, Lanarkshire, Scotland, G2 8BH",
+    "PubName":"Sloans ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Case of beer and other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 221 8886",
+    "PubWebsite":"https://www.sloansglasgow.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.282964433,55.86434137 ]
+    },
+    "properties": {
+    "PubAddress":"1046 Argyle Street, Kelvingrove Park, Glasgow, Lanarkshire, Scotland, G3 8LU",
+    "PubName":"Taphouse ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"Case of beer for winners; there is also a jackpot round for a cash prize, which rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 237 7931",
+    "PubWebsite":"https://www.taphousefinnieston.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.295035966,55.87405687 ]
+    },
+    "properties": {
+    "PubAddress":"191 Byres Road, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8TN",
+    "PubName":"Tennent’s ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st – £20 voucher; 2nd – bottle of house wine; 3rd – packet of peanuts",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 339 7203",
+    "PubWebsite":"https://www.thetennentsbarglasgow.co.uk/#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.296264211,55.87309302 ]
+    },
+    "properties": {
+    "PubAddress":"131 Byres Road, West End, Glasgow, Lanarkshire, Scotland, G12 8TT",
+    "PubName":"The Aragon",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st – £50 cash; 2nd – bottle of wine; last – booby prize",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:45pm",
+    "PubPhoneNumber":"0141 339 3252",
+    "PubWebsite":"https://www.facebook.com/p/Aragon-Bar-100063705603452/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.247023419,55.85908365 ]
+    },
+    "properties": {
+    "PubAddress":"108 Brunswick Street, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1TF",
+    "PubName":"The Amsterdam",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"1st – £50 bar tab; 2nd – £25 bar tab; 3rd- bottle of wine",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 552 5108",
+    "PubWebsite":"https://thedamglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.264191317,55.83527406 ]
+    },
+    "properties": {
+    "PubAddress":"21 Dixon Avenue, South Side, Glasgow, Lanarkshire, Scotland, G42 8EB",
+    "PubName":"The Bell Jar",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st - £60 bar tab; 2nd - £25 bar tab; other small prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 423 3989",
+    "PubWebsite":"https://www.facebook.com/thebelljarglasgow/#",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.270801956,55.81031774 ]
+    },
+    "properties": {
+    "PubAddress":"443 Clarkston Road, South Side, Glasgow, Lanarkshire, Scotland, G44 3LL",
+    "PubName":"The Bank",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Winners receive a Bank voucher and have the chance to win the rolling cash jackpot",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 637 8461",
+    "PubWebsite":"https://www.greatukpubs.co.uk/bank-glasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.248448476,55.86224472 ]
+    },
+    "properties": {
+    "PubAddress":"46 North Frederick Street, City Centre, Glasgow, Lanarkshire, Scotland, G1 2BS",
+    "PubName":"The Ark",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st – jackpot ; 2nd – £30 bar tab; 3rd – 2x pitchers of beer/cocktails",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 559 4331",
+    "PubWebsite":"https://www.socialpubandkitchen.co.uk/ark-glasgow",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.252614567,55.86084205 ]
+    },
+    "properties": {
+    "PubAddress":"6 North Court, Merchant City, Glasgow, Lanarkshire, Scotland, G1 2DP",
+    "PubName":"The Auctioneers",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£30 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 222 2989",
+    "PubWebsite":"https://www.theauctioneersglasgow.co.uk/#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271144692,55.83661185 ]
+    },
+    "properties": {
+    "PubAddress":"17 Nithsdale Road, Pollokshields, Glasgow, Lanarkshire, Scotland, G41 2AL",
+    "PubName":"The Bungo",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"Cash for winners; there is also a jackpot where cash or vouchers can be won – this rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 423 0023",
+    "PubWebsite":"https://thebungo.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.260813723,55.86429403 ]
+    },
+    "properties": {
+    "PubAddress":"153 Bath Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 4",
+    "PubName":"The Butterfly and the Pig",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st –  £25 voucher, 2nd – £15 voucher",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 221 7711",
+    "PubWebsite":"https://www.thebutterflyandthepig.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.282676161,55.88201708 ]
+    },
+    "properties": {
+    "PubAddress":"182 Queen Margaret Drive, Kelvinside, Glasgow, Lanarkshire, Scotland, G20 8NX",
+    "PubName":"The Brewhaus",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"Prizes for 1st, 2nd and 3rd",
+    "QuizEntryCost":"£2 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":" 0141 946  9456",
+    "PubWebsite":"https://www.thebrewhaus.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.227554353,55.81542978 ]
+    },
+    "properties": {
+    "PubAddress":"22 Lugar Place, South Side, Glasgow, Lanarkshire, Scotland, G44 5HB",
+    "PubName":"The Croft",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£20 voucher for winners.  Regular teams can compete for a jackpot which rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 633 5791",
+    "PubWebsite":"https://www.facebook.com/croft445/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.273926377,55.86843858 ]
+    },
+    "properties": {
+    "PubAddress":"1 Lynedoch Street, Park District, Glasgow, Lanarkshire, Scotland, G3 6EF",
+    "PubName":"The Drake",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£100 voucher for winners, plus other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 7363",
+    "PubWebsite":"https://thedrakepub.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.278981185,55.83150727 ]
+    },
+    "properties": {
+    "PubAddress":"1041 Pollokshaws Road, South Side, Glasgow, Lanarkshire, Scotland, G41 3YF",
+    "PubName":"The Corona",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"1st – £75 voucher; 2nd – £25 voucher",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 632 6230",
+    "PubWebsite":"https://corona-bar.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.279175963,55.87311686 ]
+    },
+    "properties": {
+    "PubAddress":"74 Park Road, Woodlands, Glasgow, Lanarkshire, Scotland, G4 9JF",
+    "PubName":"The Doublet",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"1st – £30 bar tab; 2nd – £15 bar tab.  There is also a jackpot prize, which rolls over if not won (capped at £100)",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 334 1982",
+    "PubWebsite":"https://www.facebook.com/thedoubletbar/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.255160822,55.86557879 ]
+    },
+    "properties": {
+    "PubAddress":"142 Renfield Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 3AU",
+    "PubName":"The Flying Duck",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Vary from week to week, but usually include gig tickets",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 564 1450",
+    "PubWebsite":"https://www.theflyingduck.org/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.293337793,55.8743326 ]
+    },
+    "properties": {
+    "PubAddress":"24 Ashton Lane, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8SJ",
+    "PubName":"The Gardener",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£50 bar tab",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 341 1230",
+    "PubWebsite":"https://thegardenerglasgow.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":"film quiz"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.28234017,55.87563677 ]
+    },
+    "properties": {
+    "PubAddress":"508 Great Western Road, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8EL",
+    "PubName":"The French Horn",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Winners receive a £75 voucher or a case of wines",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 732 9424",
+    "PubWebsite":"https://www.thefrenchhornglasgow.co.uk/",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.278217224,55.83199588 ]
+    },
+    "properties": {
+    "PubAddress":"1006A Pollokshaws Road, South Side, Glasgow, Lanarkshire, Scotland, G41 2",
+    "PubName":"The Glad Café",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"1st – bottle of spirits; 2nd – bottle of house wine; 3rd – a cake",
+    "QuizEntryCost":"Free.?Maximum team size is 6",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 636 6119",
+    "PubWebsite":"https://www.thegladcafe.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.321570814,55.88867061 ]
+    },
+    "properties": {
+    "PubAddress":"1487 Great Western Road, Jordanhill, Glasgow, Lanarkshire, Scotland",
+    "PubName":"The Esquire House",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"Winners receive half the entry fees – the other half goes to charity",
+    "QuizEntryCost":"£2 per head",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":"0141 341 1130",
+    "PubWebsite":"https://www.jdwetherspoon.com/pubs/the-esquire-house-glasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.282464452,55.82929022 ]
+    },
+    "properties": {
+    "PubAddress":"10 Kilmarnock Road, South Side, Glasgow, Lanarkshire, Scotland, G41 3NH",
+    "PubName":"The Granary",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"£30 voucher for winners",
+    "QuizEntryCost":"free ",
+    "QuizStartTime":"6:30pm",
+    "PubPhoneNumber":"0141 649 0594",
+    "PubWebsite":"https://www.thegranaryglasgow.co.uk/#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.284253569,55.86494172 ]
+    },
+    "properties": {
+    "PubAddress":"8 Kelvingrove Street, West End, Glasgow, Lanarkshire, Scotland, G3 7RX",
+    "PubName":"The Grove",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"1st - £15 voucher; 2nd - £10 voucher, 3rd - £5 voucher",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 243 2565",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/grove",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.364243617,55.88306391 ]
+    },
+    "properties": {
+    "PubAddress":"10 Plean Street, Garscadden, Glasgow, Lanarkshire, Scotland, G14 0YH",
+    "PubName":"The Gulf of Corryvrechan",
+    "DayofQuiz":"Sunday, fortnightly",
+    "QuizWinnings":"£20 voucher for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:30pm",
+    "PubPhoneNumber":"0141 237 2729",
+    "PubWebsite":"https://www.facebook.com/corryvrechan.bar",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.267774188,55.86523686 ]
+    },
+    "properties": {
+    "PubAddress":"266 Bath Street, Blythswood Hill, Glasgow, Lanarkshire, Scotland, G2 4JP",
+    "PubName":"The Griffin",
+    "DayofQuiz":"last Thursday of the month",
+    "QuizWinnings":"£50 bar tab for winners, plus various other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 2833",
+    "PubWebsite":"https://thegriffinglasgow.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271752296,55.86605455 ]
+    },
+    "properties": {
+    "PubAddress":"241 North Street, West End, Glasgow, Lanarkshire, Scotland, G3 7DL",
+    "PubName":"The Locale",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"Bottle of spirits for winners; there is also a card game at the end of the quiz which everyone can enter for the chance to win a £50 bar tab",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 221 9036",
+    "PubWebsite":"https://www.thelocaleglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.23938432,55.86373955 ]
+    },
+    "properties": {
+    "PubAddress":"100 Saint James Road, City Centre, Glasgow, Lanarkshire, Scotland, G4 0PS",
+    "PubName":"The Howgait",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£30 bar tab, plus various smaller prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 564 1218",
+    "PubWebsite":"https://www.greatukpubs.co.uk/howgait-glasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.289166872,55.86633965 ]
+    },
+    "properties": {
+    "PubAddress":"1256 Argyle Street, West End, Glasgow, Lanarkshire, Scotland, G3 8",
+    "PubName":"The Islay Inn",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£50 cash",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"07:30",
+    "PubPhoneNumber":"0141 334 7774",
+    "PubWebsite":"https://www.islayinnglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.366284497,55.84517783 ]
+    },
+    "properties": {
+    "PubAddress":"2377 Paisley Road West, Glasgow, Lanarkshire, Scotland, G52 3QH",
+    "PubName":"The Mulroy Bay",
+    "DayofQuiz":"Sunday, fortnightly",
+    "QuizWinnings":"£20 voucher for winners; there is also a cash jackpot, which starts at £50 and increases by £20 each time it is not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"6:00pm",
+    "PubPhoneNumber":"0141 883 8111",
+    "PubWebsite":"https://themulroybay.wixsite.com/website",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":"membership only"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.256781731,55.86243495 ]
+    },
+    "properties": {
+    "PubAddress":"134 West George Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 2HG",
+    "PubName":"The Merchant",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st – £50 cash; 2nd – a beer tower of selected beer or cider; 3rd – a pint or 2 shots of your choosing. There is also a jackpot that changes from week to week and can reach hundreds of pounds",
+    "QuizEntryCost":"£2 per head",
+    "QuizStartTime":"7:00pm",
+    "PubPhoneNumber":" 0141 353 3926",
+    "PubWebsite":"https://www.greatukpubs.co.uk/merchant-glasgow",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.256781731,55.86243495 ]
+    },
+    "properties": {
+    "PubAddress":"134 West George Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 2HG",
+    "PubName":"The Merchant",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"1st – £50 bar tab; 2nd – 8 pints; 3rd – free pint .  There is also the chance to win the cash jackpot, which rolls up if not won and can reach £1,000.  Big giveaways every quarter",
+    "QuizEntryCost":"£2 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":" 0141 353 3926",
+    "PubWebsite":"https://www.greatukpubs.co.uk/merchant-glasgow",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.257381188,55.81515766 ]
+    },
+    "properties": {
+    "PubAddress":"131 Old Castle Road, South Side, Glasgow, Lanarkshire, Scotland, G44 5TJ",
+    "PubName":"The Old Smiddy",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£20 food/drink voucher for winners; also, a chance to win a jackpot of the entry fee cash",
+    "QuizEntryCost":"£2 per team",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 637 3284",
+    "PubWebsite":"https://www.greatukpubs.co.uk/old-smiddy-cathcart",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.278505215,55.87228183 ]
+    },
+    "properties": {
+    "PubAddress":"315 Woodlands Road, Woodlands, Glasgow, Lanarkshire, Scotland, G3 6NG",
+    "PubName":"The Old Schoolhouse",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£25 Belhaven gift card for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0141 337 1790",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/old-schoolhouse",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.279134741,55.85367644 ]
+    },
+    "properties": {
+    "PubAddress":"1 Paisley Road West, Govan, Glasgow, Lanarkshire, Scotland, G51 1LF",
+    "PubName":"The Old Toll Bar",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Case of beer for winners.  Also, there are prizes for bonus rounds – a bottle of Buckfast and a cuddly toy!",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 258 4830",
+    "PubWebsite":"https://www.facebook.com/theoldtollbarglasgow/?locale=en_GB",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.290854083,55.87721554 ]
+    },
+    "properties": {
+    "PubAddress":"28 Vinicombe Street, Hillhead, Glasgow, Lanarkshire, Scotland, G12 8BE",
+    "PubName":"The Parlour",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"1st – £100 bar tab; 2nd – bottle of tequila; 3rd – bottle of wine",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 560 8004",
+    "PubWebsite":"https://www.theparlourwestend.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.303738527,55.87495609 ]
+    },
+    "properties": {
+    "PubAddress":"205 Hyndland Road, West End, Glasgow, Lanarkshire, Scotland, G12 9HE",
+    "PubName":"The Rock",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"1st – meal for 4; 2nd – bottle of wine; last – packet of nuts.  Also, there is “Play Your Cards Right” for a roll-up cash prize – entry by purchase of raffle tickets",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 334 6977",
+    "PubWebsite":"https://www.therockglasgow.co.uk/#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.287371554,55.82553626 ]
+    },
+    "properties": {
+    "PubAddress":"52 Coustonholm Road, South Side, Glasgow, Lanarkshire, Scotland, G43 1UF",
+    "PubName":"The Quaich",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"£25 gift card for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 632 9003",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/quaich",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.330956401,55.89602803 ]
+    },
+    "properties": {
+    "PubAddress":"176 Fulton Street, Temple, Glasgow, Lanarkshire, Scotland, G13 1",
+    "PubName":"The Signal Box",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£30 bar tab for winners; also, there is a cash jackpot, which rolls over if not won",
+    "QuizEntryCost":"£1 per head. Maximum team size is 4",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 230 7964",
+    "PubWebsite":"https://www.facebook.com/SignalBoxGlasgow/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.272935569,55.87251087 ]
+    },
+    "properties": {
+    "PubAddress":"185 Great Western Road, Woodlands, Glasgow, Lanarkshire, Scotland, G4 9EB",
+    "PubName":"The Scallion ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"£50 bar tab for winners.",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 4699",
+    "PubWebsite":"https://thescallion.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.286869319,55.86622993 ]
+    },
+    "properties": {
+    "PubAddress":"979 Sauchiehall Street, West End, Glasgow, Lanarkshire, Scotland, G3 7TQ",
+    "PubName":"The Snaffle Bit",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Vouchers",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:30pm",
+    "PubPhoneNumber":"0141 339 7163",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/snaffle-bit",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.300509349,55.8714939 ]
+    },
+    "properties": {
+    "PubAddress":"16 Dowanhill Street, Partick West, Glasgow, Lanarkshire, Scotland, G11 5QS",
+    "PubName":"The Sparkle Horse",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"First prize is a moderately generous £51.15 bar tab. Second prize of £25 bar tab and third prize wins you a bottle of acceptable wine.",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 562 3175",
+    "PubWebsite":"https://thesparklehorse.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.257290244,55.8624362 ]
+    },
+    "properties": {
+    "PubAddress":"151 West George Street, Merchant City, Glasgow, Lanarkshire, Scotland, G2 2JJ",
+    "PubName":"The Society Room",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"Winners receive cash from entry fees",
+    "QuizEntryCost":"£3 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 229 7560",
+    "PubWebsite":"https://www.jdwetherspoon.com/pubs/the-society-room-glasgow",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.32151708,55.87094958 ]
+    },
+    "properties": {
+    "PubAddress":"724 Dumbarton Road, Hayburn, Glasgow, Lanarkshire, Scotland, G11 6RB",
+    "PubName":"The Thornwood",
+    "DayofQuiz":"Wednesday",
+    "QuizWinnings":"£50 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 334 5059",
+    "PubWebsite":"https://www.thethornwoodbar.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.1477602,55.83957127 ]
+    },
+    "properties": {
+    "PubAddress":"129 Hamilton Road, Sandyhills, Glasgow, Lanarkshire, Scotland, G32 9QW",
+    "PubName":"The Woodend",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"Winners play “Open the Box” for a cash prize, which increases by £25 per week if not won.  There is also a raffle (£1 per ticket) for the chance to win cash in a “Play Your Cards Right” game",
+    "QuizEntryCost":"free; maximum of 6 per team",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":" 0141 778 1088",
+    "PubWebsite":"https://www.facebook.com/thewoodendpub#",
+    "Smartphone Quiz?":"Yes",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.264378652,55.86478377 ]
+    },
+    "properties": {
+    "PubAddress":"214 Bath Street, City Centre, Glasgow, Lanarkshire, Scotland, G2 4HW",
+    "PubName":"The Tiki Bar",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£100 cash for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 332 1341",
+    "PubWebsite":"https://www.tikibarglasgow.com/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.32629717,55.8822358 ]
+    },
+    "properties": {
+    "PubAddress":"501 Crow Road, Partick West, Glasgow, Lanarkshire, Scotland, G11 7DN",
+    "PubName":"Three Craws ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"Winners have choice of 3 envelopes – £5, £10 or the jackpot",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"9:30pm",
+    "PubPhoneNumber":"0141 950 4518",
+    "PubWebsite":"https://www.emberinns.co.uk/nationalsearch/scotlandandnorthernireland/the-three-craws-glasgow#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.299296152,55.87043019 ]
+    },
+    "properties": {
+    "PubAddress":"141 Dumbarton Road, Partick West, Glasgow, Lanarkshire, Scotland, G11 6PR",
+    "PubName":"The Three Judges",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£30 bar tab for winners",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"9:00pm",
+    "PubPhoneNumber":"0131 337 3055",
+    "PubWebsite":"https://www.greatukpubs.co.uk/three-judges-glasgow",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.32629717,55.8822358 ]
+    },
+    "properties": {
+    "PubAddress":"501 Crow Road, Partick West, Glasgow, Lanarkshire, Scotland, G11 7DN",
+    "PubName":"Three Craws ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":"Winners have choice of 3 envelopes – £5, £10 or the jackpot",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"9:30pm",
+    "PubPhoneNumber":"0141 950 4518",
+    "PubWebsite":"https://www.emberinns.co.uk/nationalsearch/scotlandandnorthernireland/the-three-craws-glasgow#/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.243090294,55.85606935 ]
+    },
+    "properties": {
+    "PubAddress":"44 London Road, Calton, Glasgow, Lanarkshire, Scotland, G1 5NB",
+    "PubName":"Vinyl ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£25 bar tab for winners; in addition, one person from the winning team has the chance to answer a bonus question to win a round of shots. There are also other prizes which vary from week to week",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 286 3714",
+    "PubWebsite":"https://www.facebook.com/VinylBarG1/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271544593,55.83687584 ]
+    },
+    "properties": {
+    "PubAddress":"58 Nithsdale Road, South Side, Glasgow, Lanarkshire, Scotland, G41 2AN",
+    "PubName":"Titwood Bar",
+    "DayofQuiz":"Monday",
+    "QuizWinnings":"£30 bar tab for winners; also, there is a “Play Your Cards Right” game for a cash jackpot, which rolls over if not won",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 433 9162",
+    "PubWebsite":"https://proper-pubs.com/our-proper-pubs/129-titwood-glasgow/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.24537888,55.858794 ]
+    },
+    "properties": {
+    "PubAddress":"78 Candleriggs, Merchant City, Glasgow, Lanarkshire, Scotland, G1 1",
+    "PubName":"Vodka Wodka Merchant Square ",
+    "DayofQuiz":"Tuesday",
+    "QuizWinnings":"1st – bottle of spirits; 2nd – cocktail jug; 3rd – round of shots",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 260 1292",
+    "PubWebsite":"https://www.vodkawodka.fun/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.245634537,55.85416905 ]
+    },
+    "properties": {
+    "PubAddress":"5 Greendyke Street, Calton, Glasgow, Lanarkshire, Scotland, G1 5PU",
+    "PubName":"Whistler on the Green ",
+    "DayofQuiz":"Thursday",
+    "QuizWinnings":"£30 voucher for winners, plus other prizes",
+    "QuizEntryCost":"free",
+    "QuizStartTime":"7:30pm",
+    "PubPhoneNumber":"0141 321 4609",
+    "PubWebsite":"https://www.whistleronthegreen.co.uk/",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"Yes",
+    "OtherNotes:":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.271837083,55.87223135 ]
+    },
+    "properties": {
+    "PubAddress":"226 Great Western Road, Woodlands, Glasgow, Lanarkshire, Scotland, G4 9AE",
+    "PubName":"Wintersgills ",
+    "DayofQuiz":"Sunday",
+    "QuizWinnings":" Cash; also a rollover prize",
+    "QuizEntryCost":"£1 per head",
+    "QuizStartTime":"8:00pm",
+    "PubPhoneNumber":"0141 332 3532",
+    "PubWebsite":"https://www.belhaven.co.uk/pubs/glasgow/wintersgills",
+    "Smartphone Quiz?":"",
+    "VerifiedOngoing?":"No",
+    "OtherNotes:":""
+    }
+  }
+]
+}
